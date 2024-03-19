@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Renato_listeCores</string>
+    <string name="titulo">Selecione uma cor</string>
+
+    <string-array name="cores_Array">
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarelo</item>
+        <item>Laranja</item>
+    </string-array>
+</resources>
